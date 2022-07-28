@@ -89,6 +89,12 @@ git pull origin main --allow-unrelated-histories
 git commit
 ```
 
+### 특정 브랜치 pull 하기
+
+```
+git pull git pull origin mission2_dasomyun
+```
+
 ---
 
 ### 마크다운 참고 문서
