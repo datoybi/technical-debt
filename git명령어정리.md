@@ -89,6 +89,11 @@ git pull origin main --allow-unrelated-histories
 git commit
 ```
 
+### 브랜치 이름 바꿀때
+```
+git branch -m old_version new_version
+```
+
 ### 특정 브랜치 pull 하기
 
 ```
